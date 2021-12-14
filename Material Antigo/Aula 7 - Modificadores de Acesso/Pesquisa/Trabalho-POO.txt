@@ -1,0 +1,19 @@
+Revisão
+
+o que é uma linguagem compilada? vantagens e desvantagens
+o que é uma linguagem interpretada? vantagens e desvantagens
+
+o que é uma classe ?
+o que é um objeto ?
+o que significa instanciar um objeto ?
+o que são construtores ? para que servem ? quantos exitem ? quais são as limitação ?
+o que é uma variável de tipos primitivos ?
+o que é uma variável de referência?
+diferença entre array de primitivos e de referências? exemplo
+
+o que são modificadores de acesso?
+quais são os modificadores de acesso?
+o que são atributos de classe?
+para que usar a palavra static ?
+
+pesquise sobre os modificadores exitentes no java. Quais serverm para atributos, métodos, classes ? As funções são as mesmas ou diferentes ?
